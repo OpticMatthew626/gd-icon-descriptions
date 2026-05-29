@@ -7,25 +7,25 @@ body{
     gap: 20px;
 }
 
-#cube_1{
+.cube_1{
     background-color: blue;
     width: 600px;
 }
 
-#cube_1_cont{
+.cube_1_cont{
     translate: 10px;
 }
 
-#cube_2{
+.cube_2{
     background-color:bisque;
     width: 875px;
 }
 
-#cube_2_cont{
+.cube_2_cont{
     translate: 10px;
 }
 
-#for_gum{
+.for_gum{
     display: flex;
     translate: 380px;
     margin-top: -295px;
@@ -39,24 +39,70 @@ body{
     margin-top: 20px;
 }
 
-#cube_3{
+.cube_3{
     background-color: chartreuse;
     width: 600px;
 }
 
-#cube_3_cont{
+.cube_3_cont{
     translate: 10px;
 }
 
-#cube_4{
+.cube_4{
     background-color:coral;
     width: 600px;
 }
 
-#cube_4_cont{
+.cube_4_cont{
     translate: 10px;
 }
 
-#bg_song{
+.bg_song{
     margin-top: 10px;
+}
+
+.row3{
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.page_2_txt{
+    gap: 15px;
+    transform: translateY(25px);
+}
+
+.row4{
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.row6{
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.index_txt{
+    gap: 15px;
+    transform: translateY(25px);
+}
+
+.cube_5{
+    background-color: crimson;
+    width: 600px;
+}
+
+.cube_5_cont{
+    translate: 10px;
+}
+
+.cube_6{
+    background-color: darkblue;
+    width: 875px;
+}
+
+.cube_6_cont{
+    translate: 10px;
 }
